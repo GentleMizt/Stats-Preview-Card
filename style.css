@@ -18,7 +18,13 @@ main{
     left: 50%;
     transform: translate(-50%, -50%);
 }
-.insight, .img-div{
-    border: 1px solid red;
+.img-div{
+    /* color: hsl(277, 64%, 61%); */
+    filter: saturate(3); 
 }
-.img
+.img-div img{
+
+}
+.insight{
+    background-color: hsl(244, 38%, 16%);
+}
