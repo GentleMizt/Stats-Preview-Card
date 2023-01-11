@@ -4,5 +4,15 @@
     box-sizing: border-box;
 }
 main{
-    color: hsl(233, 47%, 7%);
+    background-color: hsl(233, 47%, 7%);
+    height: 100vh;
+}
+.grid-p{
+    width: 85vw;
+    border: 1px solid red;
+    margin: auto;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
