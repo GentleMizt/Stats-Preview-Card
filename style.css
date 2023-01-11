@@ -3,3 +3,6 @@
     padding: 0;
     box-sizing: border-box;
 }
+main{
+    color: hsl(233, 47%, 7%);
+}
