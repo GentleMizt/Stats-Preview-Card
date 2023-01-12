@@ -87,3 +87,19 @@ main{
 
 
 /*-------------------- MEDIA QUERY STYLING STARTS HERE ------------------------ */
+@media(max-width: 450px){
+    .grid-p{
+        display: grid;
+        grid-template-columns: 1;
+        grid-template-rows: 35%, 65%;
+        /* border: 1px solid blue; */
+    }
+    .img-div{
+        grid-column: 1/2;
+        grid-row: 1/2;
+    }
+    .insight{
+        grid-column: 1/2;
+        grid-row: 2/3;
+    }
+}
