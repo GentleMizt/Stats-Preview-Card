@@ -43,12 +43,10 @@ main{
 .insight .texts h2{
     font-family: 'Inter', sans-serif;
     letter-spacing: 1.2px;
-    /* font-family: 'Lexend Deca', sans-serif; */
     font-size: 3.5rem;
     color: white;
 }
 .texts{
-    /* border: 1px solid red; */
     width: 75%;
     margin: auto;
     margin-top: 5.5rem;
@@ -57,5 +55,6 @@ main{
     color: white;
     font-family: 'Lexend Deca', sans-serif;
     font-size: 1.5rem;
-    margin: 1.5rem 0;
+    margin-top: 3rem;
+    word-spacing: 1.3px;
 }
