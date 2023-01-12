@@ -51,10 +51,16 @@ main{
     margin: auto;
     margin-top: 5.5rem;
 }
-.insight .texts p{
+.text-p{
     color: white;
     font-family: 'Lexend Deca', sans-serif;
     font-size: 1.5rem;
     margin-top: 3rem;
     word-spacing: 1.3px;
+}
+.text-flex{
+    border: 1px solid red;
+    margin-top: 4rem;
+    display: flex;
+    justify-content: space-between;
 }
