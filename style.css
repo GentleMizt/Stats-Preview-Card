@@ -52,7 +52,7 @@ main{
     margin-top: 5.5rem;
 }
 .text-p{
-    color: white;
+    color: hsla(0, 0%, 100%, 0.75);
     font-family: 'Lexend Deca', sans-serif;
     font-size: 1.5rem;
     margin-top: 3rem;
@@ -68,4 +68,11 @@ main{
     font-size: 3rem;
     font-weight: 900;
     font-family: 'Inter', sans-serif;
+}
+.text-flex p{
+    color: hsla(0, 0%, 100%, 0.6);
+    font-weight: 100;
+    font-size: 1.3rem;
+    font-family: 'Lexend Deca', sans-serif;
+    margin: 1rem;
 }
