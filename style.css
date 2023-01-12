@@ -22,15 +22,20 @@ main{
     left: 50%;
     transform: translate(-50%, -50%);
 }
-.img-div{
-    /* color: hsl(277, 64%, 61%); */
-    filter: saturate(3); 
-}
-.img-div img{
-
-}
 .insight{
     background-color: hsl(244, 38%, 16%);
+    /* position: relative; */
+}
+.img-div{
+    position: relative;
+}
+.img-div::before{
+    background-color: hsl(277, 64%, 61%);
+    position: absolute;
+    content: "";
+    width: 100%;
+    height: 100%;
+    opacity: .5;
 }
 .insight span{
     color: hsl(277, 64%, 61%);
