@@ -45,3 +45,13 @@ main{
     font-size: 3.5rem;
     color: white;
 }
+.texts{
+    /* border: 1px solid red; */
+    width: 75%;
+    margin: auto;
+}
+.insight .texts p{
+    color: white;
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 1.5rem;
+}
