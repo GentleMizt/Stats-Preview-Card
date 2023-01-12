@@ -40,7 +40,8 @@ main{
 .insight span{
     color: hsl(277, 64%, 61%);
 }
-.insight h2{
+.insight .texts h2{
     font-family: 'Inter', sans-serif;
     font-size: 3.5rem;
+    color: white;
 }
