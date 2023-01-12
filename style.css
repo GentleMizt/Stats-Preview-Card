@@ -59,8 +59,13 @@ main{
     word-spacing: 1.3px;
 }
 .text-flex{
-    border: 1px solid red;
-    margin-top: 4rem;
+    margin-top: 6rem;
     display: flex;
     justify-content: space-between;
+}
+.text-flex h3{
+    color: white;
+    font-size: 3rem;
+    font-weight: 900;
+    font-family: 'Inter', sans-serif;
 }
