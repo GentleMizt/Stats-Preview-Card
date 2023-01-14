@@ -118,8 +118,13 @@ main{
         grid-column: 1/2;
         grid-row: 2/3;
     }
-    .texts h2{
-        border: 1px solid red;
+    .insight .texts h2{
+        letter-spacing: none;
+        margin-top: none;
+        font-size: 2.5rem;
+    }
+    .text-p{
+        font-size: 1.4rem;
     }
     .mobile{
         display: block;
