@@ -128,6 +128,7 @@ main{
     }
     .text-p{
         font-size: 1.4rem;
+        margin-top: 1.5rem;
     }
     .mobile{
         display: block;
