@@ -118,6 +118,9 @@ main{
         grid-column: 1/2;
         grid-row: 2/3;
     }
+    .texts{
+        margin-top: 3rem;
+    }
     .insight .texts h2{
         letter-spacing: none;
         margin-top: none;
@@ -133,4 +136,5 @@ main{
     .desktop{
         display: none;
     }
+    
 }
