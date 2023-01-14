@@ -137,5 +137,8 @@ main{
     .desktop{
         display: none;
     }
-    
+    .text-flex{
+        flex-direction: column;
+        align-items: center;
+    }
 }
