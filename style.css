@@ -38,12 +38,9 @@ main{
     position: relative;
     width: 100%;
 }
-
-/* Edited Added styles to fix image overflow  */
 .img-div img {
     width: 100%;
 }
-
 .img-div::before{
     background-color: hsl(277, 100%, 35%);
     position: absolute;
@@ -152,7 +149,6 @@ main{
     }
     .templates, .companies, .queries{
         margin-top: 2.5rem;
-        /* border: 1px solid red; */
         width: 100%;
 
     }
