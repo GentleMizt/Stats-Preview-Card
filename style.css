@@ -158,16 +158,12 @@ main{
 }
 
 @media(max-width: 1000px) {
-    /* .img-div img{
-        max-height: 35rem;
-    }
-    .img-div::before{
-        max-height: 35rem;
+    .text-flex{
+        margin-top: 3rem;
     }
     .insight{
-        max-height: 35rem;
-        
-    } */
+    
+    } 
     .grid-p{
         max-height: 35rem;
     }
