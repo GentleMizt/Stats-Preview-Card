@@ -161,10 +161,13 @@ main{
     .text-flex{
         margin-top: 3rem;
     }
-    .insight{
-    
+    .texts{
+        padding-bottom: 3rem;
     } 
     .grid-p{
         max-height: 35rem;
     }
+    /* .desktop{
+        max-height: 35rem;
+    } */
 }
