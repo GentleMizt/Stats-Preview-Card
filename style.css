@@ -40,6 +40,8 @@ main{
 }
 .img-div img {
     width: 100%;
+    height: 100%;
+    max-height: 45rem;
 }
 .img-div::before{
     background-color: hsl(277, 100%, 35%);
@@ -47,6 +49,7 @@ main{
     content: "";
     width: 100%;
     height: 100%;
+    max-height: 45rem;
     opacity: .5;
 }
 .insight span{
@@ -100,7 +103,7 @@ main{
 
 
 /*-------------------- MEDIA QUERY STYLING STARTS HERE ------------------------ */
-@media(max-width: 450px){
+@media(max-width: 750px){
     main{
         min-height: 100vh;
         padding-top: 3rem;
@@ -152,4 +155,8 @@ main{
         width: 100%;
 
     }
+}
+
+@media(max-width: 1000px) {
+    
 }
