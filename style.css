@@ -158,5 +158,10 @@ main{
 }
 
 @media(max-width: 1000px) {
-    
+    .img-div img{
+        max-height: 35rem;
+    }
+    .img-div::before{
+        max-height: 35rem;
+    }
 }
