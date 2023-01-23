@@ -162,9 +162,10 @@ main{
         margin-top: 3rem;
     }
     .texts{
+        margin-top: 3rem;
         padding-bottom: 3rem;
     } 
     .grid-p{
-        max-height: 37rem;
+        max-height: 34rem;
     }
 }
