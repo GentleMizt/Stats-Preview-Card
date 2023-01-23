@@ -165,6 +165,12 @@ main{
         margin-top: 3rem;
         padding-bottom: 3rem;
     } 
+    .insight .texts h2{
+        font-size: 3rem;
+    }
+    .mobile{
+        display: none;
+    }
     .grid-p{
         max-height: 34rem;
     }
