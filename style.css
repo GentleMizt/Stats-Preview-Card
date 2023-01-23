@@ -165,9 +165,6 @@ main{
         padding-bottom: 3rem;
     } 
     .grid-p{
-        max-height: 35rem;
+        max-height: 37rem;
     }
-    /* .desktop{
-        max-height: 35rem;
-    } */
 }
